@@ -1,2 +1,4 @@
-start
+echo download complete\n >> log.txt
+
 echo success!
+pause

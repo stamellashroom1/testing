@@ -1,4 +1,5 @@
-echo download complete\n >> log.txt
+@echo off
+(echo download complete && echo.) >> log.txt
 
 echo success!
 pause

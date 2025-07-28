@@ -1,5 +1,7 @@
 @echo off
 (echo download complete && echo.) >> log.txt
-
 echo success!
 pause
+
+del test.bat
+exit
